@@ -218,6 +218,24 @@ Make three small upgrades (5–8 minutes):
 
 > \\\*\\\*Quick check — done when:\\\*\\\* you can run your 3 questions in under 2 minutes and your slide is filled in.
 
+### Step 9 — Publish to Teams and test in the browser
+
+**What you're doing:** publishing your agent to the Microsoft Teams channel and testing it in Teams on the web. **Why it matters:** this is how people often use agents in real life, and these laptops do not require the Teams desktop app.
+
+1. In Copilot Studio, open Publish (or Publish/Channels) and click Publish latest content.
+2. Wait for the publish to complete.
+3. Open Channels and select Microsoft Teams.
+4. Choose Add to Teams (the label may also appear as Open in Teams or Make available in Teams).
+5. When prompted, choose Open web app / Use web instead of desktop.
+6. Sign in to Teams in your browser and open your agent chat.
+7. Run the same 3 demo questions and verify answers still look right.
+
+> \\\*\\\*Browser-only rule for this workshop:\\\*\\\* Use Teams on the web at https://teams.microsoft.com. Do not use the desktop app.
+
+> \\\*\\\*If Teams opens the desktop app automatically:\\\*\\\* cancel it and return to the browser tab; choose "Use the web app instead".
+
+> \\\*\\\*Quick check — done when:\\\*\\\* your agent is published, opens in Teams web, and answers your 3 test questions correctly.
+
 \---
 
 ## Advanced (optional) — give your agent a Tool
@@ -288,6 +306,7 @@ Structure: who \& what (20s) → why it matters (20s) → live demo of 3 best qu
 * **Generative answers:** https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-boost-conversations
 * **Add tools / actions:** https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-plugin-actions
 * **Publish \& share:** https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-fundamentals-publish-channels
+* **Teams on the web:** https://teams.microsoft.com
 
 > \\\*\\\*You did it!\\\*\\\* If your agent answers a couple of real questions and handles "I don't know" gracefully, that's a genuine win. Celebrate it and keep the idea — you can grow it after today.
 
