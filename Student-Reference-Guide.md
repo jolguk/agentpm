@@ -10,7 +10,7 @@
 
 ## The brief — what you're building
 
-Today you'll build a working AI "agent" (a helper you chat with) using Microsoft Copilot Studio, then present it to your group in 2–3 minutes. No coding and no experience needed. You'll pick a simple idea, give your agent a personality, teach it a few things, test it, and demo it. Work in a pair or trio sharing one screen — one person clicks, one reads the steps.
+Today you'll build a working AI "agent" (a helper you chat with) using Microsoft Copilot Studio, then present it back to the whole group at the end of the session. You will build an agent to fulfill one of the usecases presented by the charities. No coding and no experience needed. You'll describe what your agent needs to do, give your agent a personality, teach it a few things, test it, and demo it. 
 
 > \\\*\\\*By the end you will be able to:\\\*\\\* explain what an AI agent is; create and name your own agent; teach it with simple knowledge and topics; test and improve it; and present it confidently.
 
@@ -30,10 +30,10 @@ Today you'll build a working AI "agent" (a helper you chat with) using Microsoft
 
 ### Quick-start checklist
 
-1. Open Edge or Chrome and go to copilotstudio.microsoft.com.
-2. Sign in with your work, school, or Microsoft account (not personal Gmail).
-3. If asked to start a free trial, accept it.
-4. You're ready when you can see the Copilot Studio home page.
+1. On your assigned laptop, there should already be a browser open with an account logged into Copilot Studio.
+2. Confirm you can see the Copilot Studio home page.
+3. If Copilot Studio is not open, go to copilotstudio.microsoft.com in Edge or Chrome.
+4. If you're prompted to sign in, use the account provided for your laptop.
 
 > \\\*\\\*If you're stuck:\\\*\\\* Tell a helper early if sign-in fails — don't wait. Pair up with someone who's already in so you don't miss the build.
 
@@ -49,7 +49,9 @@ Copilot Studio's buttons move around as the product updates. If a label is sligh
 
 **Why it matters:** A small, clear idea is the secret to finishing in an hour.
 
-Pick one (or invent one just as simple):
+Your main task is to build an agent based on one of the use cases provided by the charities.
+
+If you are new to Copilot Studio and want a quick practice run first, you can start with one of these simple example ideas:
 
 * Food Bank Info Helper — explains opening times, locations, and what to bring.
 * Volunteer Onboarding Guide — answers first-week questions for new volunteers.
@@ -58,7 +60,7 @@ Pick one (or invent one just as simple):
 * Donation Guide Assistant — explains accepted items and how to donate safely.
 * Wellbeing Signposting Helper — points people to the right support service or contact.
 
-> \\\*\\\*Quick check — done when:\\\*\\\* your group can say it in one sentence: "Our agent helps \\\_\\\_\\\_ do \\\_\\\_\\\_."
+> \\\*\\\*Quick check — done when:\\\*\\\* your group can say it in one sentence: "Our agent helps \\\_\\\_\\\_ do \\\_\\\_\\\_" based on a charity use case (or your chosen practice example).
 
 ### Step 1 — Create a new agent
 
@@ -248,7 +250,7 @@ For confident builders who finish early. A Tool lets your agent DO something or 
 
 1. Turn on generative orchestration in Settings — this lets the agent choose tools by itself.
 2. Open the Tools (or Actions) area and choose Add a tool.
-3. Pick a Standard connector action, or create a new Power Automate flow (avoid Premium-marked ones).
+3. Pick a Standard connector action, create a new Power Automate flow (avoid Premium-marked ones) or add a REST API call.
 4. Give the tool a clear name and a one-sentence description of exactly when to use it.
 5. Map the inputs and outputs in plain language.
 6. Save, then ask a question that needs the tool and watch the agent call it.
