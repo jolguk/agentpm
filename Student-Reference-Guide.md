@@ -66,12 +66,13 @@ If you are new to Copilot Studio and want a quick practice run first, you can st
 
 **What you're doing:** a blank agent to build on. **Why it matters:** it's your agent's home.
 
-1. On the home page, find Create in the left menu.
-2. Choose New agent (may show as "+ New agent" or "Create an agent").
-3. If a chat asks "What should your agent do?", type one friendly sentence — or look for "Skip to configure".
-4. Give a temporary name if asked (you'll change it next).
+1. On the home page, find Agents in the left menu.
+2. Choose Create blank agent on the top right.
+3. Name your agent (do not change the Agent Settings)
+3. Press Create.
 
-> \\\*\\\*Tip:\\\*\\\* Don't spend long picking templates. A blank/basic agent is perfect today.
+
+
 
 > \\\*\\\*Quick check — done when:\\\*\\\* you can see your new, mostly-empty agent open on screen.
 
@@ -79,9 +80,9 @@ If you are new to Copilot Studio and want a quick practice run first, you can st
 
 **What you're doing:** telling your agent who it is and how to behave. **Why it matters:** clear purpose + friendly tone make every answer better.
 
-1. Set a clear, friendly Name (e.g. "Volunteer Onboarding Guide").
-2. Find the Description / Instructions field (also called "Instructions" or "Purpose").
-3. Paste and edit the starter text below.
+
+1. Fill out the Instructions field. Use the Edit button, enter some text and press Save.
+2. If you need inspiration, here's some starter text. 
 
 > \\\*You are a friendly, encouraging helper for people using this charity service. Answer common questions clearly and briefly. Use simple, welcoming language. If you don't know something, say so honestly and suggest the right team or contact point. Never collect or store personal details. Keep answers short — 2 to 4 sentences when possible.\\\*
 
@@ -95,7 +96,7 @@ If you are new to Copilot Studio and want a quick practice run first, you can st
 
 #### Upload your own knowledge files
 
-Bring information your agent should know — a handbook, a programme outline, or a short guide you've written. Use only files that are safe to share in a public/education setting.
+Bring information your agent should know — a handbook, a programme outline, or a short guide you've written. Use only files that are safe to share in a public/education setting. You might want to get some help on sites to use from your assigned charity, or you may want to generate fake data for this - ask your coaches for help if you need it. 
 
 * Open the Knowledge section/tab in your agent.
 * Choose to add a knowledge source and pick File or Document.
@@ -144,8 +145,8 @@ Example description you could type:
 **What you're doing:** deciding what your agent says when it doesn't know. **Why it matters:** a good "I don't know, here's who to ask" builds trust and keeps people safe.
 
 1. Find the Fallback topic (may be "Fallback", "Unknown", or "Conversational fallback").
-2. Set a kind, honest response (below).
-3. If there's no fallback topic, add the same rule to your Instructions.
+2. Change the Message to b a kind, honest response (example below).
+3. If there's no fallback topic (there should be one though), add the same rule to your Instructions instead.
 
 > \\\*I'm not sure about that one — I might be wrong, so I don't want to guess. For this question, please contact the charity support team, who'll be happy to help. Is there anything else I can try?\\\*
 
@@ -159,7 +160,7 @@ Example description you could type:
 
 1. Find the Test panel (usually a chat box on the right).
 2. Click Save so the test uses your latest version.
-3. Try all 8 prompts below and mark each one: OK / needs fixing.
+3. Try around 8 prompts appropriate to your use case  - or not! -  and mark each one: OK / needs fixing. Some examples here:
 
 |#|Try typing|What should happen|
 |-|-|-|
