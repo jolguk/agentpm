@@ -72,6 +72,7 @@ If you are new to Copilot Studio and want a quick practice run first, you can st
 4. Click on the arrow next to Agent settings to expand the options. 
 5. Pick the correct solution for your charity usecase. 
 oum - The University of Manchester
+cgf - Cracking Good Food
 wyth - Wythenshawe Community Housing
 youth - Youth Zones
 emsy - Emsy Consulting
