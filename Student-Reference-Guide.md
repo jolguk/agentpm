@@ -41,7 +41,7 @@ Today you'll build a working AI "agent" (a helper you chat with) using Microsoft
 
 ## The Build Lab — step by step
 
-Be awre that Copilot Studio's user interface may change as the product updates. If a label is slightly different, look for the closest matching word — the meaning is the same. 
+Be aware that Copilot Studio's user interface may change as the product updates. If a label is slightly different, look for the closest matching word — the meaning is the same. 
 
 ### Step 0 — Choose your agent scenario
 
