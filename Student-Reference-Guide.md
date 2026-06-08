@@ -257,7 +257,7 @@ Make three small upgrades (5–8 minutes):
 
 For confident builders who finish early. A Tool lets your agent DO something or fetch live, up-to-date information — not just chat from fixed knowledge. Examples: look up data in another system, run an automated flow, or call a service.
 
-> \\\*\\\*Heads-up:\\\*\\\* Many connectors are "Premium" and need a paid licence or admin approval. If you don't have those, use a Standard connector, build a simple Power Automate flow, or simulate the idea with a topic.
+> \\\*\\\*Heads-up:\\\*\\\* Some connectors are "Premium" and need a paid licence or admin approval. If you don't have those, use a Standard connector, build a simple Power Automate flow, or simulate the idea with a topic.
 
 ### How it works
 
