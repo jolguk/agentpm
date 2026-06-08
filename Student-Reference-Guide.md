@@ -185,7 +185,7 @@ Example description you could type:
 
 #### See WHERE answers come from (sources)
 
-1. When generative answers are on, replies often show citations or references.
+1. When generative answers are on (which is the default), replies often show citations or references.
 2. Click a citation to see if the answer came from your knowledge source, an uploaded file, or the public web.
 3. Notice which topic fired — the test panel can show the topic path / activity, so you know whether a topic triggered or the agent used generative answers.
 
@@ -193,7 +193,7 @@ Example description you could type:
 
 #### Try turning public web search on and off
 
-Copilot Studio can let your agent use its general knowledge and the public web, on top of your knowledge. Look in Settings, under the generative AI / generative answers options (a "use general knowledge" or web search toggle).
+Copilot Studio can let your agent use its general knowledge and the public web, on top of your knowledge. Within the Knowledge section on the Overview page you can toggle Web Search to be on or off with the Enabled button.
 
 |Web / general knowledge|What changes|
 |-|-|
@@ -203,7 +203,7 @@ Copilot Studio can let your agent use its general knowledge and the public web, 
 Compare for yourself:
 
 1. Pick a question NOT in your knowledge (e.g. "What's the weather today?"). Ask it with web ON and check the source.
-2. Turn web OFF, Save, and ask the same question. Notice how the answer changes.
+2. Turn web OFF, Save, and ask the same question. Notice how the answer changes - or does it?!
 3. Ask an in-knowledge question (e.g. opening hours) both ways — it should stay accurate either way.
 
 > \\\*\\\*Good default for a safe agent:\\\*\\\* For a public/education agent, OFF is usually better: it stays on-topic and only uses content you trust. Turn web ON only when you really want broad, general answers.
@@ -237,10 +237,12 @@ Make three small upgrades (5–8 minutes):
 
 1. In Copilot Studio, open Publish (or Publish/Channels) and click Publish latest content.
 2. Wait for the publish to complete.
-3. Open Channels and select Microsoft Teams.
-4. Choose Add to Teams (the label may also appear as Open in Teams or Make available in Teams).
-5. When prompted, choose Open web app / Use web instead of desktop.
+3. Click on +4 (to the right of Topics), Open Channels and select Microsoft 365 and Microsoft Teams.
+4. Press Add channel.
+5. select See agent in Teams.
 6. Sign in to Teams in your browser and open your agent chat.
+7. Press add. 
+8. Press Open. 
 7. Run the same 3 demo questions and verify answers still look right.
 
 > \\\*\\\*Browser-only rule for this workshop:\\\*\\\* Use Teams on the web at https://teams.microsoft.com. Do not use the desktop app.
