@@ -155,7 +155,7 @@ Example description you could type:
 **What you're doing:** deciding what your agent says when it doesn't know. **Why it matters:** a good "I don't know, here's who to ask" builds trust and keeps people safe.
 
 1. Find the Fallback topic (may be "Fallback", "Unknown", or "Conversational fallback").
-2. Change the Message to b a kind, honest response (example below).
+2. Change the Message to  a kind, honest response (example below).
 3. If there's no fallback topic (there should be one though), add the same rule to your Instructions instead.
 
 > \\\*I'm not sure about that one — I might be wrong, so I don't want to guess. For this question, please contact the charity support team, who'll be happy to help. Is there anything else I can try?\\\*
