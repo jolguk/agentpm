@@ -41,7 +41,7 @@ Today you'll build a working AI "agent" (a helper you chat with) using Microsoft
 
 ## The Build Lab — step by step
 
-Copilot Studio's buttons move around as the product updates. If a label is slightly different, look for the closest matching word — the meaning is the same. Each step has: What you're doing, Why it matters, Exact instructions, and a Quick check.
+Be awre that Copilot Studio's user interface may change as the product updates. If a label is slightly different, look for the closest matching word — the meaning is the same. 
 
 ### Step 0 — Choose your agent scenario
 
@@ -68,8 +68,17 @@ If you are new to Copilot Studio and want a quick practice run first, you can st
 
 1. On the home page, find Agents in the left menu.
 2. Choose Create blank agent on the top right.
-3. Name your agent (do not change the Agent Settings)
-3. Press Create.
+3. Name your agent
+4. Click on the arrow next to Agent settings to expand the options. 
+5. Pick the correct solution for your charity usecase. 
+oum - The University of Manchester
+wyth - Wythenshawe Community Housing
+youth - Youth Zones
+emsy - Emsy Consulting
+fund - other fundraisers
+msft - Microsoft
+
+6. Press Create.
 
 
 
