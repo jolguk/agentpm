@@ -12,9 +12,9 @@
 
 Today you'll build a working AI "agent" (a helper you chat with) using Microsoft Copilot Studio, then present it back to the whole group at the end of the session. You will build an agent to fulfill one of the usecases presented by the charities. No coding and no experience needed. You'll describe what your agent needs to do, give your agent a personality, teach it a few things, test it, and demo it. 
 
-> \\\*\\\*By the end you will be able to:\\\*\\\* explain what an AI agent is; create and name your own agent; teach it with simple knowledge and topics; test and improve it; and present it confidently.
+> By the end you will be able to: explain what an AI agent is; create and name your own agent; teach it with simple knowledge and topics; test and improve it; and present it confidently.
 
-> \\\*\\\*Keep it safe:\\\*\\\* Your agent must be appropriate for a public/education setting: no collecting personal data, no harmful content. Use fictional examples only.
+> Keep it safe: Your agent must be appropriate for a public/education setting: no collecting personal data, no harmful content. Use fictional examples only.
 
 ### Words you'll hear (plain English)
 
@@ -35,7 +35,7 @@ Today you'll build a working AI "agent" (a helper you chat with) using Microsoft
 3. If Copilot Studio is not open, go to copilotstudio.microsoft.com in Edge or Chrome.
 4. If you're prompted to sign in, use the account provided for your laptop.
 
-> \\\*\\\*If you're stuck:\\\*\\\* Tell a helper early if sign-in fails — don't wait. Pair up with someone who's already in so you don't miss the build.
+> If you're stuck: Tell a helper early if sign-in fails — don't wait. Pair up with someone who's already in so you don't miss the build.
 
 \---
 
@@ -60,7 +60,7 @@ If you are new to Copilot Studio and want a quick practice run first, you can st
 * Donation Guide Assistant — explains accepted items and how to donate safely.
 * Wellbeing Signposting Helper — points people to the right support service or contact.
 
-> \\\*\\\*Quick check — done when:\\\*\\\* your group can say it in one sentence: "Our agent helps \\\_\\\_\\\_ do \\\_\\\_\\\_" based on a charity use case (or your chosen practice example).
+> Quick check — done when:your group can say it in one sentence: "Our agent helps __ do ___" based on a charity use case (or your chosen practice example).
 
 ### Step 1 — Create a new agent
 
@@ -84,7 +84,7 @@ msft - Microsoft
 
 
 
-> \\\*\\\*Quick check — done when:\\\*\\\* you can see your new, mostly-empty agent open on screen.
+> Quick check — done when: you can see your new, mostly-empty agent open on screen.
 
 ### Step 2 — Define purpose, name \& tone
 
@@ -94,11 +94,11 @@ msft - Microsoft
 1. Fill out the Instructions field. Use the Edit button, enter some text and press Save.
 2. If you need inspiration, here's some starter text. 
 
-> \\\*You are a friendly, encouraging helper for people using this charity service. Answer common questions clearly and briefly. Use simple, welcoming language. If you don't know something, say so honestly and suggest the right team or contact point. Never collect or store personal details. Keep answers short — 2 to 4 sentences when possible.\\\*
+> You are a friendly, encouraging helper for people using this charity service. Answer common questions clearly and briefly. Use simple, welcoming language. If you don't know something, say so honestly and suggest the right team or contact point. Never collect or store personal details. Keep answers short — 2 to 4 sentences when possible.
 
-> \\\*\\\*Common pitfall:\\\*\\\* Vague instructions ("be helpful") give vague answers. Say WHO it helps and HOW it should sound.
+> Common pitfall: Vague instructions ("be helpful") give vague answers. Say WHO it helps and HOW it should sound.
 
-> \\\*\\\*Quick check — done when:\\\*\\\* your agent has a real name and a short paragraph describing its job and tone.
+> Quick check — done when: your agent has a real name and a short paragraph describing its job and tone.
 
 ### Step 3 — Add knowledge
 
@@ -122,9 +122,9 @@ Point your agent at a trustworthy public web page so it can answer from informat
 * Add only pages that are safe and appropriate for everyone.
 * Save, then ask a question the page should be able to answer.
 
-> \\\*\\\*Tip:\\\*\\\* Keep it focused — a couple of good files and one or two reliable websites beat a huge pile of sources.
+> Tip: Keep it focused — a couple of good files and one or two reliable websites beat a huge pile of sources.
 
-> \\\*\\\*Quick check — done when:\\\*\\\* your agent has at least one of your own files and one public website it can answer from.
+> Quick check — done when: your agent has at least one of your own files and one public website it can answer from.
 
 ### Step 4 — Create 2 topics
 
@@ -142,13 +142,13 @@ You'll let Copilot do the heavy lifting: you describe the conversation you want 
 
 Example description you could type:
 
-> \\\*Topic name: Volunteer Sign-Up. Start this topic when someone types things like "volunteer", "how do I sign up", "help out", or "join as a volunteer". Greet them warmly, ask what kind of role interests them (events, admin, or community support), then tell them where to complete the sign-up form and who to contact for next steps. Finish by asking if there's anything else you can help with.\\\*
+> Topic name: Volunteer Sign-Up. Start this topic when someone types things like "volunteer", "how do I sign up", "help out", or "join as a volunteer". Greet them warmly, ask what kind of role interests them (events, admin, or community support), then tell them where to complete the sign-up form and who to contact for next steps. Finish by asking if there's anything else you can help with.
 
-> \\\*\\\*Tip:\\\*\\\* Be specific in your description — name the trigger phrases and spell out the steps you want the conversation to take. The clearer your description, the better Copilot's first draft.
+> Tip: Be specific in your description — name the trigger phrases and spell out the steps you want the conversation to take. The clearer your description, the better Copilot's first draft.
 
-> \\\*\\\*Common pitfall:\\\*\\\* One-word triggers like "help" can fire by accident. Ask for short phrases like "volunteer sign up" instead.
+> Common pitfall: One-word triggers like "help" can fire by accident. Ask for short phrases like "volunteer sign up" instead.
 
-> \\\*\\\*Quick check — done when:\\\*\\\* you have 2 topics created from a description, each with sensible trigger phrases and a conversation that flows the way you intended.
+> Quick check — done when: you have 2 topics created from a description, each with sensible trigger phrases and a conversation that flows the way you intended.
 
 ### Step 5 — Add a fallback / escalation
 
@@ -158,9 +158,9 @@ Example description you could type:
 2. Change the Message to  a kind, honest response (example below).
 3. If there's no fallback topic (there should be one though), add the same rule to your Instructions instead.
 
-> \\\*I'm not sure about that one — I might be wrong, so I don't want to guess. For this question, please contact the charity support team, who'll be happy to help. Is there anything else I can try?\\\*
+> I'm not sure about that one — I might be wrong, so I don't want to guess. For this question, please contact the charity support team, who'll be happy to help. Is there anything else I can try?
 
-> \\\*\\\*Quick check — done when:\\\*\\\* asking a random off-topic question gives a calm, honest reply that points somewhere helpful.
+> Quick check — done when: asking a random off-topic question gives a calm, honest reply that points somewhere helpful.
 
 ### Step 6 — Test your agent (in detail)
 
@@ -189,7 +189,7 @@ Example description you could type:
 2. Click a citation to see if the answer came from your knowledge source, an uploaded file, or the public web.
 3. Notice which topic fired — the test panel can show the topic path / activity, so you know whether a topic triggered or the agent used generative answers.
 
-> \\\*\\\*Tip:\\\*\\\* Before clicking a citation, guess out loud where the answer came from. It builds your intuition fast.
+> Tip: Before clicking a citation, guess out loud where the answer came from. It builds your intuition fast.
 
 #### Try turning public web search on and off
 
@@ -206,9 +206,9 @@ Compare for yourself:
 2. Turn web OFF, Save, and ask the same question. Notice how the answer changes - or does it?!
 3. Ask an in-knowledge question (e.g. opening hours) both ways — it should stay accurate either way.
 
-> \\\*\\\*Good default for a safe agent:\\\*\\\* For a public/education agent, OFF is usually better: it stays on-topic and only uses content you trust. Turn web ON only when you really want broad, general answers.
+> Good default for a safe agent: For a public/education agent, OFF is usually better: it stays on-topic and only uses content you trust. Turn web ON only when you really want broad, general answers.
 
-> \\\*\\\*Quick check — done when:\\\*\\\* your 3 topics + fallback respond sensibly, and you've seen at least one answer's source.
+> Quick check — done when: your 3 topics + fallback respond sensibly, and you've seen at least one answer's source.
 
 ### Step 7 — Improve your agent
 
@@ -218,7 +218,7 @@ Make three small upgrades (5–8 minutes):
 2. Refine the tone — read one answer aloud; warm it up or trim it to 2–3 sentences.
 3. Add one safety boundary to your Instructions: "Do not ask for or store any personal information. If asked, politely decline and explain why."
 
-> \\\*\\\*Quick check — done when:\\\*\\\* one topic asks a clarifying question, the tone feels friendly, and the agent refuses personal-data requests.
+> Quick check — done when: one topic asks a clarifying question, the tone feels friendly, and the agent refuses personal-data requests.
 
 ### Step 8 — Prepare for your demo
 
@@ -227,9 +227,9 @@ Make three small upgrades (5–8 minutes):
 3. Decide who talks and who types.
 4. Have a backup screenshot of a good answer in case the live demo is slow.
 
-> \\\*\\\*Tip:\\\*\\\* If your tenant allows it, you can Publish/share your agent so others can try it. If not, demoing in the Test panel is perfectly fine.
+> Tip: If your tenant allows it, you can Publish/share your agent so others can try it. If not, demoing in the Test panel is perfectly fine.
 
-> \\\*\\\*Quick check — done when:\\\*\\\* you can run your 3 questions in under 2 minutes and your slide is filled in.
+> Quick check — done when: you can run your 3 questions in under 2 minutes and your slide is filled in.
 
 ### Step 9 — Publish to Teams and test in the browser
 
@@ -245,11 +245,11 @@ Make three small upgrades (5–8 minutes):
 8. Press Open. 
 7. Run the same 3 demo questions and verify answers still look right.
 
-> \\\*\\\*Browser-only rule for this workshop:\\\*\\\* Use Teams on the web at https://teams.microsoft.com. Do not use the desktop app.
+> Browser-only rule for this workshop: Use Teams on the web at https://teams.microsoft.com. Do not use the desktop app.
 
-> \\\*\\\*If Teams opens the desktop app automatically:\\\*\\\* cancel it and return to the browser tab; choose "Use the web app instead".
+> If Teams opens the desktop app automatically:cancel it and return to the browser tab; choose "Use the web app instead".
 
-> \\\*\\\*Quick check — done when:\\\*\\\* your agent is published, opens in Teams web, and answers your 3 test questions correctly.
+> Quick check — done when: your agent is published, opens in Teams web, and answers your 3 test questions correctly.
 
 \---
 
@@ -257,7 +257,7 @@ Make three small upgrades (5–8 minutes):
 
 For confident builders who finish early. A Tool lets your agent DO something or fetch live, up-to-date information — not just chat from fixed knowledge. Examples: look up data in another system, run an automated flow, or call a service.
 
-> \\\*\\\*Heads-up:\\\*\\\* Some connectors are "Premium" and need a paid licence or admin approval. If you don't have those, use a Standard connector, build a simple Power Automate flow, or simulate the idea with a topic.
+> Heads-up: Some connectors are "Premium" and need a paid licence or admin approval. If you don't have those, use a Standard connector, build a simple Power Automate flow, or simulate the idea with a topic.
 
 ### How it works
 
@@ -268,9 +268,9 @@ For confident builders who finish early. A Tool lets your agent DO something or 
 5. Map the inputs and outputs in plain language.
 6. Save, then ask a question that needs the tool and watch the agent call it.
 
-> \\\*\\\*Tip:\\\*\\\* The agent decides when to use a tool by reading its description. A clear "Use this when…" description is the most important part.
+> Tip: The agent decides when to use a tool by reading its description. A clear "Use this when…" description is the most important part.
 
-> \\\*\\\*Stay safe:\\\*\\\* Tools can send data out (e.g. a flow that emails someone). No real personal data, and only connect to things safe for a public/education setting.
+> Stay safe: Tools can send data out (e.g. a flow that emails someone). No real personal data, and only connect to things safe for a public/education setting.
 
 \---
 
@@ -282,7 +282,7 @@ For confident builders who finish early. A Tool lets your agent DO something or 
 * Stay in scope — point medical, legal, emergency or crisis questions to a real human.
 * Escalate when it matters — always give a route to a person or official service.
 
-> \\\*\\\*Copy this into your agent (Safety \\\& Scope):\\\*\\\* "Hi! I'm an AI helper here to answer general questions about \\\[your topic]. I'm not a person, and I might sometimes be wrong — please double-check anything important. I won't ask for or store any personal information. For urgent matters, or anything I can't help with, please contact \\\[the charity support team / a member of staff]. How can I help today?"
+> Copy this into your agent (Safety & Scope): "Hi! I'm an AI helper here to answer general questions about [your topic]. I'm not a person, and I might sometimes be wrong — please double-check anything important. I won't ask for or store any personal information. For urgent matters, or anything I can't help with, please contact [the charity support team / a member of staff]. How can I help today?"
 
 \---
 
@@ -292,7 +292,7 @@ Structure: who \& what (20s) → why it matters (20s) → live demo of 3 best qu
 
 ### 1-slide template (fill this in)
 
-> AGENT NAME: \\\_\\\_\\\_\\\_ | PROBLEM (one sentence): \\\_\\\_\\\_\\\_ | WHO IT'S FOR: \\\_\\\_\\\_\\\_ | WHAT IT DOES (2–3 bullets): \\\_\\\_\\\_\\\_ | DEMO QUESTIONS (3): \\\_\\\_\\\_\\\_ | SAFE-USE CHOICE: \\\_\\\_\\\_\\\_ | NEXT STEP: \\\_\\\_\\\_\\\_
+> AGENT NAME: ____ | PROBLEM (one sentence): ____ | WHO IT'S FOR: ____ | WHAT IT DOES (2–3 bullets): ____ | DEMO QUESTIONS (3): ____ | SAFE-USE CHOICE: ____ | NEXT STEP: ____
 
 \---
 
@@ -323,5 +323,5 @@ Structure: who \& what (20s) → why it matters (20s) → live demo of 3 best qu
 * **Publish \& share:** https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-fundamentals-publish-channels
 * **Teams on the web:** https://teams.microsoft.com
 
-> \\\*\\\*You did it!\\\*\\\* If your agent answers a couple of real questions and handles "I don't know" gracefully, that's a genuine win. Celebrate it and keep the idea — you can grow it after today.
+> **You did it! If your agent answers a couple of real questions and handles "I don't know" gracefully, that's a genuine win. Celebrate it and keep the idea — you can grow it after today.
 
